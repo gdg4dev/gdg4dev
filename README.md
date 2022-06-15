@@ -1,16 +1,7 @@
- <style>
-  .circleborder {
-border-radius: 150px;
--webkit-border-radius: 150px;
--moz-border-radius: 150px;
-background: url(URL) no-repeat;
-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
--webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
--moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
-}</style>
+
 
 <div align="center">
-<img class="circleborder" src="https://avatars.githubusercontent.com/u/48826680?v=4" align="center" height="40%" width="40%" />
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/48826680?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)" align="center"  height="auto" width="200" style="border-radius:50%" />
 </div>  
   
 
@@ -33,7 +24,7 @@ box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 <br/>  
 
 
-## My Skill Set  
+## My complete (beginner - advanced) skill-Set 
 
 
 ### Frontend  
