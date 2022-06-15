@@ -6,7 +6,7 @@
   
 
 
-### <div align="center">I'm Aniket, a student and full-stack freelance developer. I'm driven by curiosity. Started exploring tech in early teens (13 y/o). </div>  
+### <div align="center">I'm Aniket, a student and a full-stack freelance developer. I'm driven by curiosity. Started exploring tech in early teens (13 y/o). </div>  
   
 
 - 🔭 I’m currently working on my portfolio's [blog section](https://anikethirpara.com/blog)  
